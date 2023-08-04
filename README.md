@@ -1,6 +1,6 @@
 # reconhecedor-de-faces
 
 para rodar baixe os arquivos e instale no cmd os seguintes comandos:
-pip install opencv;
-pip opencv_contrib_python;
-pip install cv2;
+pip install opencv-python-headless;
+pip install opencv-contrib-python-headless;
+
